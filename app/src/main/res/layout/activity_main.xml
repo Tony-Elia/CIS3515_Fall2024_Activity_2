@@ -10,11 +10,11 @@
 
     <Spinner
         android:id="@+id/spinner"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="48dp"
-        android:layout_marginStart="136dp"
+        android:layout_marginStart="150dp"
         android:layout_marginTop="50dp"
-        android:layout_marginEnd="157dp"
+        android:layout_marginEnd="150dp"
         android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
